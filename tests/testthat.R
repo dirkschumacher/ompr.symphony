@@ -1,0 +1,5 @@
+library(testthat)
+library(magrittr)
+library(ompr)
+library(ompr.symphony)
+test_check("ompr.symphony")
